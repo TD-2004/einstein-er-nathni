@@ -2,7 +2,7 @@ const comments = [
     "Age is merely the number of years the world has been enjoying you! 🎉",
     "Life’s a picnic, so let’s celebrate your birthday with a basket full of fun and a blanket of joy! 😉",
     "You’re like a fine wine... you get better with age! 🍷",
-    "khun bhalo thakben mam",
+    "khub bhalo thakben mam",
     "I spent 3 hours searching the internet for the perfect birthday message for you and then I gave up. Happy Birthday! 👴👵"
   ];
   
